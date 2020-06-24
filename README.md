@@ -1,10 +1,9 @@
 # GitHub功能测试专用库
 ## Git命令大全
-Workspace：工作区
-
---- Index / Stage：暂存区
-Repository：仓库区（或本地仓库）
---- Remote：远程仓库
+- Workspace：工作区
+-Index / Stage：暂存区
+- Repository：仓库区（或本地仓库）
+- Remote：远程仓库
 
 
 ### 一、新建代码库
