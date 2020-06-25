@@ -6,6 +6,8 @@ namespace Xqk
     {
         public ssdasd(){
             string dd = null;
+			
+			
         }
     }
 }
